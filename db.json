@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Allen Greenfelder V",
+      "id": 3
+    },
+    {
+      "name": "Earnest Beatty",
+      "id": 4
+    },
+    {
+      "name": "Mrs. Carmen VonRueden",
+      "id": 6
+    },
+    {
+      "name": "Ernestine Parisian",
+      "id": 8
+    },
+    {
+      "name": "Harry Mayer",
+      "id": 10
+    },
+    {
+      "name": "Duane Hoeger-Jakubowski",
+      "id": 11
+    },
+    {
+      "name": "Ramona Halvorson MD",
+      "id": 12
+    },
+    {
+      "name": "Edward Bashirian",
+      "id": 13
+    },
+    {
+      "name": "Brett Hickle",
+      "id": 14
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Oriental Wooden Cheese",
+      "id": 32
+    },
+    {
+      "userId": 1,
+      "title": "Refined Rubber Table",
+      "id": 34
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Steel Bike",
+      "id": 35
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Granite Ball",
+      "id": 36
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Rubber Salad",
+      "id": 37
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Bronze Towels",
+      "id": 38
+    },
+    {
+      "userId": 6,
+      "title": "Awesome Cotton Car",
+      "id": 39
+    },
+    {
+      "userId": 13,
+      "title": "Oriental Wooden Shoes",
+      "id": 40
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Soft Soap",
+      "id": 41
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Granite Shoes",
+      "id": 42
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 32,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7585388658950144",
+      "id": 1
+    },
+    {
+      "albumId": 32,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3268140003753984",
+      "id": 2
+    },
+    {
+      "albumId": 32,
+      "url": "https://loremflickr.com/150/150/abstract?lock=624734691655680",
+      "id": 3
+    },
+    {
+      "albumId": 32,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2237668729552896",
+      "id": 5
+    },
+    {
+      "albumId": 36,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6992497888722944",
+      "id": 6
+    },
+    {
+      "albumId": 36,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5834206489870336",
+      "id": 7
+    },
+    {
+      "albumId": 36,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6284957618012160",
+      "id": 8
+    },
+    {
+      "albumId": 36,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3417220891803648",
+      "id": 9
+    }
+  ]
+}
